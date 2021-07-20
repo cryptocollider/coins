@@ -1,0 +1,7 @@
+[
+  {
+    "url": "failover.zet.ewmci.xyz:50002",
+    "protocol": "SSL",
+    "disable_cert_verification": true
+  }
+]
