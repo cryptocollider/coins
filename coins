@@ -2093,25 +2093,6 @@
 		}
 	},
 	{
-		"coin": "WDC",
-		"name": "worldcoin",
-		"fname": "Worldcoin",
-		"rpcport": 9332,
-		"pubtype": 73,
-		"p2shtype": 135,
-		"wiftype": 201,
-		"txfee": 0,
-		"dust": 5460,
-		"segwit": true,
-                "bech32_hrp": "wdc",
-		"mm2": 1,
-		"required_confirmations": 20,
-		"avg_blocktime": 0.5,
-		"protocol": {
-			"type": "UTXO"
-		}
-	},
-	{
 		"coin": "LUX",
 		"name": "lux",
 		"fname": "LUXCoin",
